@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://old.peakhourapp.com/sitemap.xml
